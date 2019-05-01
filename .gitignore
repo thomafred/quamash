@@ -44,3 +44,6 @@ htmlcov/
 
 # VSCode
 .vscode
+
+# Virtualenv
+/venv*/
